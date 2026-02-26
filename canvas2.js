@@ -439,8 +439,8 @@ function initialisation()
 	// Ici, on définit l'équation : ax + b = cx + d
 	
 	// Exemple pour : 2 Pomme + 4 = 10
-	nbxg = 2;   // Nombre de Pommes à GAUCHE (a)
-	nbg  = 4;   // Nombre d'unités à GAUCHE (b)
+	nbxg = 1;   // Nombre de Pommes à GAUCHE (a)
+	nbg  = 7;   // Nombre d'unités à GAUCHE (b)
 	
 	nbxd = 0;   // Nombre de Pommes à DROITE (c)
 	nbd  = 10;  // Nombre d'unités à DROITE (d)
