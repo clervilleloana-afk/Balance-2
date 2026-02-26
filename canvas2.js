@@ -438,12 +438,12 @@ function initialisation()
 	// --- DEBUT DE VOS MODIFICATIONS ---
 	// Ici, on définit l'équation : ax + b = cx + d
 	
-	// Exemple pour : 1 Pomme + 2 = 13
+	// Exemple pour : 2 Pomme + 4 = 10
 	nbxg = 2;   // Nombre de Pommes à GAUCHE (a)
-	nbg  = 5;   // Nombre d'unités à GAUCHE (b)
+	nbg  = 4;   // Nombre d'unités à GAUCHE (b)
 	
 	nbxd = 0;   // Nombre de Pommes à DROITE (c)
-	nbd  = 13;  // Nombre d'unités à DROITE (d)
+	nbd  = 10;  // Nombre d'unités à DROITE (d)
 
 	// CALCUL AUTOMATIQUE DE LA VALEUR DE LA POMME
 	// Le programme calcule tout seul combien pèse la pomme pour que la balance soit à l'équilibre au début.
